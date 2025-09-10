@@ -27,8 +27,6 @@ Modern ve kullanıcı dostu bir web tabanlı satranç oyunu. İnsan vs PC ve İn
 1. **Dosyaları İndirin**
    ```bash
    git clone https://github.com/Spexronn/Chess-Game.git
-   ```
-   ```
    cd spexron-chess
    ```
 
@@ -62,23 +60,6 @@ Modern ve kullanıcı dostu bir web tabanlı satranç oyunu. İnsan vs PC ve İn
 - **Chess.js**: Satranç kuralları ve hamle doğrulama
 - **Chessboard.js**: Satranç tahtası görselleştirme
 - **jQuery**: DOM manipülasyonu
-
-## 📁 Dosya Yapısı
-
-```
-spexron-chess/
-├── index.html          # Ana HTML dosyası
-├── style.css           # CSS stilleri
-├── script.js           # JavaScript oyun mantığı
-├── css/
-│   └── chessboard-1.0.0.min.css
-├── js/
-│   └── chessboard-1.0.0.min.js
-├── img/
-│   └── chesspieces/
-│       └── wikipedia/  # Satranç taşları
-└── README.md
-```
 
 ## 🎯 Oyun Kuralları
 
@@ -129,5 +110,3 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ## 🎮 İyi Oyunlar!
 
 Satranç oyununuzun keyfini çıkarın! 🏆
-
-
