@@ -27,6 +27,7 @@ Modern ve kullanıcı dostu bir web tabanlı satranç oyunu. İnsan vs PC ve İn
 1. **Dosyaları İndirin**
    ```bash
    git clone https://github.com/Spexronn/Chess-Game.git
+   ````
    cd spexron-chess
    ```
 
@@ -127,3 +128,4 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ## 🎮 İyi Oyunlar!
 
 Satranç oyununuzun keyfini çıkarın! 🏆
+
