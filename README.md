@@ -102,11 +102,3 @@ Bu proje MIT lisansı altında lisanslanmıştır. Detaylar için `LICENSE` dosy
 ## 👨‍💻 Geliştirici
 
 **SPEXRON** tarafından geliştirilmiştir.
-
----
-
-⭐ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
-
-## 🎮 İyi Oyunlar!
-
-Satranç oyununuzun keyfini çıkarın! 🏆
