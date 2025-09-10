@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="css/chessboard-1.0.0.min.css">
+    <title>SPEXRON | Chess Game</title>
+</head>
+
+<body>
+
+    <div class="container">
+        <h1>SPEXRON | Satranç Oyunu</h1>
+        <div class="board" id="board"></div>
+        <div class="game-modes">
+            <button class="mode-btn active" data-mode="human-vs-pc">İnsan VS PC</button>
+            <button class="mode-btn" data-mode="human-vs-human">İnsan VS İnsan</button>
+        </div>
+        <div class="buttons">
+            <button class="play-again">Tekrar Oyna</button>
+            <button class="set-pos">Pozisyon Al</button>
+        </div>
+        <div id="move-history" class="move-history"></div>
+    </div>
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/chess.js/0.10.3/chess.min.js"></script>
+    <script src="js/chessboard-1.0.0.min.js"></script>
+    <script src="script.js"></script>
+</body>
+
+</html>
+
+
+<!-- CODED AND DESIGNED BY SPEXRON ;) -->
